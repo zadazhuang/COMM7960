@@ -1,0 +1,24 @@
+.image0{
+    border-radius: 50%;
+}
+/*这个是圆角的意思*/
+
+.image1{
+    border-radius: 20%;
+}
+/*这个是圆角的意思*/
+
+.image2{
+    opacity:0.8
+}
+/*这个是透明度的意思*/
+
+.image3{
+    filter:grayscale(100%)
+}
+/*这个是灰度的意思*/
+
+.image4{
+    filter:blur(5px)
+}
+/*这个是模糊的意思*/
